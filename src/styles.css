@@ -2,7 +2,7 @@ body {
   margin: 0;
   height: 100vh;
 
-	background-image: url('wallpaper.png');
+	background-image: url('../assets/wallpaper.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
