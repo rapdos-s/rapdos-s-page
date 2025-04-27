@@ -1,8 +1,0 @@
-# Node Modules folder
-# Used for npm installed packages
-node_modules/
-
-# Distribution folder
-# Used for build output to use instead of the not compiled page
-# Github Pages will use this folder to serve the page, but in gh-pages branch
-dist/
